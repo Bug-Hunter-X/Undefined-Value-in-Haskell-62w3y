@@ -1,0 +1,3 @@
+# Haskell Undefined Value Bug
+
+This repository demonstrates a common error in Haskell programming: using an undefined value. The `bug.hs` file contains code that attempts to add 1 to an undefined variable. This results in a runtime error because Haskell cannot perform the addition. The `bugSolution.hs` file provides a corrected version of the code, demonstrating how to avoid this issue by providing a defined value.
